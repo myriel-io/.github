@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-**Here are some ideas to get you started:**
+Hey, I’m David Myriel, Director of Developer Relations at Qdrant. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+I help developers make the most of vector search, bridging the gap between AI, machine learning, and real-world applications. 
+I’ve got a background in technical writing, product education, and dev advocacy, and I’ve even bootstrapped a startup—so I know the highs and lows of building something from scratch. 
 
+These days, I’m diving into semantic search, observability, and AI infrastructure, sharing what I learn through writing, talks, and hands-on projects.
